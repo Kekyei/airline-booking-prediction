@@ -1,6 +1,9 @@
 # airline-booking-prediction
 A predictive model to predict customer bookings for an airline, and it also highlights the use of data and machine learning techniques to achieve this goal.
 
+## Plotting the important features for the model
+![r](https://user-images.githubusercontent.com/115629197/208548097-f8030909-ea90-4885-b704-958972afde37.png)
+
 ## Plotting Categorical values
 
     def plot_categorical_distribution(data: pd.DataFrame = None, column: str = None, height: int = 8, aspect: int = 2):
